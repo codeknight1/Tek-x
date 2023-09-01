@@ -103,6 +103,7 @@
   background-color: #fff;
 }
 
+@keyframes slider {}
 #r1:checked ~ .s1 {
   margin-left: 0;
 }
