@@ -105,7 +105,7 @@
 
 @keyframes slider {}
 #r1:checked ~ .s1 {
-  margin-left: 150%;
+  margin-left: 50%;
 }
 
 #r2:checked ~ .s1 {
