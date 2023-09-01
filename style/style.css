@@ -104,7 +104,7 @@
 }
 
 #r1:checked ~ .s1 {
-  margin-left: 50%;
+  margin-left: 0;
 }
 
 #r2:checked ~ .s1 {
