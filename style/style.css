@@ -103,9 +103,12 @@
   background-color: #fff;
 }
 
-@keyframes slider {}
 #r1:checked ~ .s1 {
-  margin-left: 50%;
+<<<<<<< Updated upstream
+  margin-left:0;
+=======
+  margin-left: 0;
+>>>>>>> Stashed changes
 }
 
 #r2:checked ~ .s1 {
